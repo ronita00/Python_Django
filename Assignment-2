@@ -1,4 +1,4 @@
-#-------------calculator using tkinter-------------#
+#-------------calculator using kinter-------------#
 
 
 from tkinter import *
