@@ -1,4 +1,4 @@
-
+#----------------simple calulator function--------------------#
 # Python program for simple calculator function
 
 def add(num1, num2):        # Function to add two numbers
@@ -17,7 +17,7 @@ def divide(num1, num2):
     return num1 / num2
 
 
-
+#-------------simple calculator-----------------#
 import Simple_calculator as Simple_calculator
 import calculator as calc
 
